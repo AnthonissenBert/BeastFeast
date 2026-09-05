@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/D'up D'up.md",
+                "file": "Plot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "D'up D'up"
+              "title": "Plot"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/D'up D'up.md",
+                "file": "Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/D'up D'up.md",
+                "file": "Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/D'up D'up.md",
+                "file": "Plot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,6 +191,8 @@
   },
   "active": "9705846820e66f81",
   "lastOpenFiles": [
+    "Players/D'up D'up.md",
+    "Plot.md",
     "Players/Mosswick.md",
     "Players/Quinn Athalar.md",
     "Players/Sir Igneus the grand knight.md",
@@ -200,7 +202,6 @@
     "_assets/Templates/Session.template.md",
     "_assets/Templates",
     "_assets",
-    "Players/D'up D'up.md",
     "F",
     "Locations",
     "NPC's",
