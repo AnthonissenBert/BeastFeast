@@ -1,4 +1,5 @@
 {
   "folder": "_assets/Templates",
-  "dateFormat": "YYYY-DD"
+  "dateFormat": "YYYY-MM-DD",
+  "timeFormat": "HH:mm"
 }
