@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Recepies/foraged item list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-05"
+              "title": "foraged item list"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,12 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f3e83d4ccab8eaa",
+  "active": "ce8565ad8ab3fb77",
   "lastOpenFiles": [
-    "Stewpot Festival.md",
-    "Recepies/meat stew.md",
     "Recepies/foraged item list.md",
+    "Recepies/meat stew.md",
     "Sessions/2026-09-05.md",
+    "Stewpot Festival.md",
     "Players/Stowićh.md",
     "Toastranch.md",
     "Ghost scorpion.md",
