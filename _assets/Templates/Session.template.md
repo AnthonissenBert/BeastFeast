@@ -4,7 +4,7 @@ date:
 Session Number: "0"
 ---
 # Players
-- [ ] [[Aaron PC]]
+- [ ] [[Floraun]]
 - [ ] [[Zoë PC]]
 - [ ] [[Cé PC]]
 - [ ] [[Stowićh]]
