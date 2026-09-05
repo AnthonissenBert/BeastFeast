@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Locations/Elmore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-05"
+              "title": "Elmore"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manshego.md",
+                "file": "NPC's/Manshego.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carat.md",
+                "file": "NPC's/Carat.md",
                 "mode": "source",
                 "source": false
               },
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Locations/Elmore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Locations/Elmore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Locations/Elmore.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -231,18 +231,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28acb2ddc547c9b7",
+  "active": "26d17578a9b2942e",
   "lastOpenFiles": [
-    "Players/Floraun.md",
     "Sessions/2026-09-05.md",
-    "Manshego.md",
+    "Players/Floraun.md",
+    "NPC's/Manshego.md",
     "Ghost scorpion.md",
-    "Carat.md",
+    "NPC's/Carat.md",
     "piping plovers.md",
     "NPC's/Doug Dougle.md",
     "NPC's/Hylaeus the Forest Mage.md",
     "Shallows.md",
-    "Elmore.md",
+    "Locations/Elmore.md",
     "Stewpot Festival.md",
     "Plover Woods.md",
     "the Lure.md",
