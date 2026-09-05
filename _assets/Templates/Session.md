@@ -1,4 +1,5 @@
 ---
-date: {{date}}
-Session Number: 
+date:
+  "{ date }":
+Session Number:
 ---
