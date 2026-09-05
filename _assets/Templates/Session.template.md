@@ -1,7 +1,7 @@
 ---
 date:
   "{ date }":
-Session Number:
+Session Number: "0"
 ---
 # players
 - [ ] [[Aaron PC]]
@@ -10,3 +10,4 @@ Session Number:
 - [ ] [[Stowićh]]
 - [ ] [[Raven PC]]
 - [ ] [[Laura PC]]
+# 
