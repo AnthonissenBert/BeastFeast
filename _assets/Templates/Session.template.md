@@ -4,5 +4,9 @@ date:
 Session Number:
 ---
 # players
-- [ ] [[[Aaron PC]]
-- [ ] ]
+- [ ] [[Aaron PC]]
+- [ ] [[Zoë PC]]
+- [ ] [[Cé PC]]
+- [ ] [[Stowićh]]
+- [ ] [[Raven PC]]
+- [ ] [[Laura PC]]
