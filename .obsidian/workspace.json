@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Zoë PC.md",
+                "file": "Players/Aaron PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zoë PC"
+              "title": "Aaron PC"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Zoë PC.md",
+                "file": "Players/Aaron PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Zoë PC.md",
+                "file": "Players/Aaron PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Zoë PC.md",
+                "file": "Players/Aaron PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,11 +191,12 @@
   },
   "active": "9705846820e66f81",
   "lastOpenFiles": [
-    "Players/Cé PC.md",
+    "Players/Stowićh.md",
+    "Players/Aaron PC.md",
     "Players/Zoë PC.md",
+    "Players/Cé PC.md",
     "Players/Laura PC.md",
     "Players/Raven PC.md",
-    "Players/Stowićh.md",
     "F",
     "Locations",
     "NPC's",
