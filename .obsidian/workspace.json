@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stewpot Festival.md",
+                "file": "Sessions/2026-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stewpot Festival"
+              "title": "2026-09-05"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "2026-09-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stewpot Festival.md",
+                "file": "Sessions/2026-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stewpot Festival.md",
+                "file": "Sessions/2026-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stewpot Festival.md",
+                "file": "Sessions/2026-09-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce8565ad8ab3fb77",
+  "active": "4f3e83d4ccab8eaa",
   "lastOpenFiles": [
+    "Stewpot Festival.md",
     "Recepies/meat stew.md",
     "Recepies/foraged item list.md",
     "Sessions/2026-09-05.md",
@@ -222,7 +224,6 @@
     "NPC's/Doug Dougle.md",
     "NPC's/Hylaeus the Forest Mage.md",
     "Shallows.md",
-    "Stewpot Festival.md",
     "Plover Woods.md",
     "the Lure.md",
     "Plover Caves.md",
