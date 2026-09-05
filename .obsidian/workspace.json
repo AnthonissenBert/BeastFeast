@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Stowićh.md",
+                "file": "Players/Stowićh.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Stowićh.md",
+                "file": "Players/Stowićh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Stowićh.md",
+                "file": "Players/Stowićh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Stowićh.md",
+                "file": "Players/Stowićh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,9 +191,12 @@
   },
   "active": "26d17578a9b2942e",
   "lastOpenFiles": [
+    "F",
+    "Locations",
+    "NPC's",
     "Sessions",
     "readme.md",
-    "Characters/Stowićh.md",
-    "Characters"
+    "Players/Stowićh.md",
+    "Players"
   ]
 }
