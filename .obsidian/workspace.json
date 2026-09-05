@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recepies/Untitled.md",
+                "file": "Plot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Plot"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recepies/Untitled.md",
+                "file": "Plot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recepies/Untitled.md",
+                "file": "Plot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recepies/Untitled.md",
+                "file": "Plot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,8 +191,8 @@
   },
   "active": "9705846820e66f81",
   "lastOpenFiles": [
+    "Recepies/meat stew.md",
     "Plot.md",
-    "Recepies/Untitled.md",
     "Recepies",
     "readme.md",
     "Players/Stowićh.md",
