@@ -5,11 +5,11 @@ Session Number: "0"
 ---
 # Players
 - [ ] [[Floraun]]
-- [ ] [[Zoë PC]]
-- [ ] [[Cé PC]]
+- [ ] [[Sir Igneus the grand knight]]
+- [ ] [[D'up D'up]]
 - [ ] [[Stowićh]]
-- [ ] [[Raven PC]]
-- [ ] [[Laura PC]]
+- [ ] [[Mosswick]]
+- [ ] [[Quinn Athalar]]
 # What happened
 
 # Tags
