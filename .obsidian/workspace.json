@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28acb2ddc547c9b7",
+            "id": "f662e23eb0fa9991",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghost scorpion.md",
+                "file": "Sessions/2026-09-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ghost scorpion"
+              "title": "2026-09-05"
             }
           },
           {
@@ -34,51 +34,8 @@
               "icon": "lucide-file",
               "title": "Stowićh"
             }
-          },
-          {
-            "id": "024ad4e91c00c895",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Manshego.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manshego"
-            }
-          },
-          {
-            "id": "4d51375a3beb4c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ghost scorpion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ghost scorpion"
-            }
-          },
-          {
-            "id": "5abe55426df600d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC's/Carat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Carat"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Stowićh.md",
+                "file": "Sessions/2026-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Stowićh.md",
+                "file": "Sessions/2026-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -218,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Stowićh.md",
+                "file": "Sessions/2026-09-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,12 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e403319db26c6cf3",
+  "active": "f662e23eb0fa9991",
   "lastOpenFiles": [
-    "Ghost scorpion.md",
     "Players/Stowićh.md",
-    "Locations/Elmore.md",
     "Sessions/2026-09-05.md",
+    "Ghost scorpion.md",
+    "Locations/Elmore.md",
     "Players/Floraun.md",
     "NPC's/Manshego.md",
     "NPC's/Carat.md",
