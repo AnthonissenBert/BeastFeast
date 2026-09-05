@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Plot"
             }
+          },
+          {
+            "id": "28acb2ddc547c9b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plover Caves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plover Caves"
+            }
+          },
+          {
+            "id": "dd0f2e37bb4c516e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hylaeus the Forest Mage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hylaeus the Forest Mage"
+            }
+          },
+          {
+            "id": "c92a35ade6216b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doug Dougle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Doug Dougle"
+            }
+          },
+          {
+            "id": "5eee3126071c8c49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "piping plovers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "piping plovers"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot.md",
+                "file": "Plover Caves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot.md",
+                "file": "Plover Caves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot.md",
+                "file": "Plover Caves.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,10 +246,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9705846820e66f81",
+  "active": "28acb2ddc547c9b7",
   "lastOpenFiles": [
-    "Recepies/meat stew.md",
+    "Plover Caves.md",
     "Plot.md",
+    "Hylaeus the Forest Mage.md",
+    "Doug Dougle.md",
+    "piping plovers.md",
+    "Recepies/meat stew.md",
     "Recepies",
     "readme.md",
     "Players/Stowićh.md",
