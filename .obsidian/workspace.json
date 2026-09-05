@@ -63,8 +63,7 @@
               "title": "Carat"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manshego.md",
+                "file": "Sessions/2026-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manshego.md",
+                "file": "Sessions/2026-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manshego.md",
+                "file": "Sessions/2026-09-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "024ad4e91c00c895",
+  "active": "28acb2ddc547c9b7",
   "lastOpenFiles": [
     "Manshego.md",
     "Sessions/2026-09-05.md",
