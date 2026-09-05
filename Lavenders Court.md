@@ -1,0 +1,1 @@
+faction in [[Rosemary's pass]]
