@@ -1,0 +1,4 @@
+---
+date: {{date}}
+Session Number: 
+---
