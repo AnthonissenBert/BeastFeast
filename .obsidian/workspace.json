@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Players/Floraun.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-05"
+              "title": "Floraun"
             }
           },
           {
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Players/Floraun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Players/Floraun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Players/Floraun.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,8 +233,8 @@
   },
   "active": "28acb2ddc547c9b7",
   "lastOpenFiles": [
-    "Manshego.md",
     "Sessions/2026-09-05.md",
+    "Manshego.md",
     "Ghost scorpion.md",
     "Carat.md",
     "piping plovers.md",
