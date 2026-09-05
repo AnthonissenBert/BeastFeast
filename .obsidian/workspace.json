@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Zoe PC.md",
+                "file": "Players/Zoë PC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zoe PC"
+              "title": "Zoë PC"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Zoe PC.md",
+                "file": "Players/Zoë PC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Zoe PC.md",
+                "file": "Players/Zoë PC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Zoe PC.md",
+                "file": "Players/Zoë PC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,7 +192,7 @@
   "active": "9705846820e66f81",
   "lastOpenFiles": [
     "Players/Ce PC.md",
-    "Players/Zoe PC.md",
+    "Players/Zoë PC.md",
     "Players/Laura PC.md",
     "Players/Raven PC.md",
     "Players/Stowićh.md",
