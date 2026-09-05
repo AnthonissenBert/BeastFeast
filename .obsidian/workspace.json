@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Players/Stowićh.md",
+                "file": "Recepies/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stowićh"
+              "title": "Untitled"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Players/Stowićh.md",
+                "file": "Recepies/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Players/Stowićh.md",
+                "file": "Recepies/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Players/Stowićh.md",
+                "file": "Recepies/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,15 +191,17 @@
   },
   "active": "9705846820e66f81",
   "lastOpenFiles": [
+    "Plot.md",
+    "Recepies/Untitled.md",
+    "Recepies",
+    "readme.md",
+    "Players/Stowićh.md",
     "Players/Quinn Athalar.md",
     "Sessions/2026-09-05.md",
-    "readme.md",
-    "Plot.md",
     "Players/D'up D'up.md",
     "Players/Mosswick.md",
     "Players/Sir Igneus the grand knight.md",
     "Players/Floraun.md",
-    "Players/Stowićh.md",
     "_assets/Templates/Session.template.md",
     "_assets/Templates",
     "_assets",
