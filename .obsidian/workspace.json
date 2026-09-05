@@ -133,8 +133,7 @@
               "title": "Stowićh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lavenders Court.md",
+                "file": "Sessions/2026-09-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +230,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lavenders Court.md",
+                "file": "Sessions/2026-09-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -274,7 +273,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lavenders Court.md",
+                "file": "Sessions/2026-09-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,10 +301,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce8565ad8ab3fb77",
+  "active": "f662e23eb0fa9991",
   "lastOpenFiles": [
-    "Sessions/2026-09-05.md",
     "Lavenders Court.md",
+    "Sessions/2026-09-05.md",
     "Rosemary's pass.md",
     "Larry.md",
     "Toastranch.md",
