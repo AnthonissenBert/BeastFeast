@@ -22,6 +22,34 @@
             }
           },
           {
+            "id": "1468d02870e1fea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ghost scorpion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ghost scorpion"
+            }
+          },
+          {
+            "id": "5355aaca5bf8317f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Toastranch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toastranch"
+            }
+          },
+          {
             "id": "e403319db26c6cf3",
             "type": "leaf",
             "state": {
@@ -205,9 +233,10 @@
   },
   "active": "f662e23eb0fa9991",
   "lastOpenFiles": [
-    "Players/Stowićh.md",
-    "Sessions/2026-09-05.md",
+    "Toastranch.md",
     "Ghost scorpion.md",
+    "Sessions/2026-09-05.md",
+    "Players/Stowićh.md",
     "Locations/Elmore.md",
     "Players/Floraun.md",
     "NPC's/Manshego.md",
