@@ -35,7 +35,8 @@
               "title": "suspicious stew"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Recepies/suspicious stew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Recepies/suspicious stew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions/2026-09-05.md",
+                "file": "Recepies/suspicious stew.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -203,11 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce8565ad8ab3fb77",
+  "active": "33194584328645cb",
   "lastOpenFiles": [
+    "Sessions/2026-09-05.md",
     "Recepies/suspicious stew.md",
     "Recepies/foraged item list.md",
-    "Sessions/2026-09-05.md",
     "Recepies/meat stew.md",
     "Stewpot Festival.md",
     "Players/Stowićh.md",
