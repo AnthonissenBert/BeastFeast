@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "2e9f196faf294ce2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "33194584328645cb",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "suspicious stew"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce8565ad8ab3fb77",
+  "active": "2e9f196faf294ce2",
   "lastOpenFiles": [
     "Recepies/suspicious stew.md",
     "Sessions/2026-09-05.md",
