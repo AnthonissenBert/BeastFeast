@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "2e9f196faf294ce2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
             "id": "33194584328645cb",
             "type": "leaf",
             "state": {
@@ -216,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e9f196faf294ce2",
+  "active": "26d17578a9b2942e",
   "lastOpenFiles": [
+    "_assets/character_2026-09-05 1.json",
+    "_assets/character_2026-09-05.json",
     "Recepies/suspicious stew.md",
     "Sessions/2026-09-05.md",
     "Recepies/foraged item list.md",
@@ -244,7 +234,6 @@
     "Recepies",
     "readme.md",
     "Players/Quinn Athalar.md",
-    "Players/D'up D'up.md",
     "_assets/Templates",
     "_assets",
     "F",

@@ -1,0 +1,162 @@
+{
+  "fields": {
+    "charName": "",
+    "charPronouns": "He/Him",
+    "charLevel": "1",
+    "charHeritage": "Frostborne Orc",
+    "charClass": "Winged Sentinel Seraph",
+    "track_ev": "8",
+    "track_prof": "1",
+    "t_agi": "0",
+    "t_str": "2",
+    "t_fin": "0",
+    "t_inst": "1",
+    "t_pres": "1",
+    "t_know": "-1",
+    "hp_max": "6",
+    "stress_max": "6",
+    "hope_max": "6",
+    "armor_max": "4",
+    "wep1_name": "Hollowed Axe",
+    "wep1_trait": "t_str",
+    "wep1_range": "Melee",
+    "wep1_dmg": "1d8+1 magical",
+    "wep1_feature": "-",
+    "wep2_name": "Round Shield",
+    "wep2_trait": "t_str",
+    "wep2_range": "Melee",
+    "wep2_dmg": "1d4",
+    "wep2_feature": "Protective: +1 to Armor Score",
+    "armor_name": "Chainmail Armor",
+    "armor_thresh_major": "6",
+    "armor_thresh_severe": "14",
+    "armor_score": "4",
+    "armor_feature": "Heavy: -1 to Evasion",
+    "thresh_major_extra": "0",
+    "thresh_severe_extra": "0",
+    "desc_clothes": "Cross between oversized and ragged clothes",
+    "desc_eyes": "Brown",
+    "desc_body": "Broad",
+    "desc_skin": "Falling Snow",
+    "desc_attitude": "",
+    "gold_hand": "0",
+    "gold_bags": "0"
+  },
+  "textareas": {
+    "levelupNotes": "",
+    "backstory": "",
+    "connections": ""
+  },
+  "dots": {
+    "hp": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "stress": [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "hope": [
+      true,
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "armor": [
+      false,
+      false,
+      false,
+      false
+    ]
+  },
+  "cards": [
+    {
+      "name": "I Am Your Shield",
+      "desc": "",
+      "feature": "<div class=\"text-[11px] text-zinc-400 leading-relaxed\"><p>When an ally within Very Close range would take damage, you can mark a Stress to stand in the way and make yourself the target of the attack instead. When you take damage from this attack, you can mark any number of Armor Slots.</p></div>",
+      "category": "domain-cards.json",
+      "domain": "VALOR",
+      "type": "ABILITY",
+      "level": 1,
+      "recallCost": 1
+    },
+    {
+      "name": "Forceful Push",
+      "desc": "",
+      "feature": "<div class=\"text-[11px] text-zinc-400 leading-relaxed\"><p>Make an attack with your primary weapon against a target within Melee range. On a success, you deal damage and knock them back to Close range. On a success with Hope, add a d6 to your damage roll.</p><p>Additionally, you can spend a Hope to make them temporarily Vulnerable.</p></div>",
+      "category": "domain-cards.json",
+      "domain": "VALOR",
+      "type": "ABILITY",
+      "level": 1,
+      "recallCost": 0
+    },
+    {
+      "name": "Orc",
+      "desc": "",
+      "feature": "<div class=\"text-[11px] font-bold text-amber-400 mt-1\">Sturdy</div><div class=\"text-[11px] text-zinc-400 leading-relaxed\"><p>When you have 1 Hit Point remaining, attacks against you have disadvantage.</p></div><div class=\"text-[11px] font-bold text-amber-400 mt-1\">Tusks</div><div class=\"text-[11px] text-zinc-400 leading-relaxed\"><p>When you succeed on an attack against a target within Melee range, you can spend a Hope to gore the target with your tusks, dealing an extra 1d6 damage.</p></div>",
+      "category": "ancestries.json",
+      "domain": "",
+      "type": ""
+    },
+    {
+      "name": "SERAPH — Class Feature: Prayer Dice",
+      "desc": "",
+      "feature": "<div class=\"text-[11px] font-bold text-amber-400 mt-1\">Prayer Dice</div><div class=\"text-[11px] text-zinc-400 leading-relaxed\"><p>At the beginning of each session, roll a number of d4s equal to your subclass's Spellcast trait and place them on your character sheet in the space provided. These are your Prayer Dice. You can spend any number of Prayer Dice to aid yourself or an ally within Far range. You can use a spent die's value to reduce incoming damage, add to a roll's result after the roll is made, or gain Hope equal to the result. At the end of each session, clear all unspent Prayer Dice.</p></div>",
+      "category": "classes.json",
+      "domain": "",
+      "type": ""
+    },
+    {
+      "name": "Winged Sentinel — Foundation: Wings of Light",
+      "desc": "",
+      "feature": "<div class=\"text-[11px] font-bold text-amber-400 mt-1\">Wings of Light</div><div class=\"text-[11px] text-zinc-400 leading-relaxed\"><p>You can fly. While flying, you can do the following:</p><p>• Mark a Stress to pick up and carry another willing creature approximately your size or smaller.</p><p>• Spend a Hope to deal an extra 1d8 damage on a successful attack.</p></div>",
+      "category": "subclasses.json",
+      "domain": "",
+      "type": ""
+    },
+    {
+      "name": "Frostborne",
+      "desc": "",
+      "feature": "<div class=\"text-[11px] font-bold text-amber-400 mt-1\">Hardy</div><div class=\"text-[11px] text-zinc-400 leading-relaxed\"><p>When you take a rest, you clear a Hit Point.</p></div>",
+      "category": "communities.json",
+      "domain": "",
+      "type": ""
+    }
+  ],
+  "experience": [
+    {
+      "name": "Autistich Roar",
+      "value": "+2",
+      "desc": "It's my battlecry"
+    },
+    {
+      "name": "",
+      "value": "",
+      "desc": ""
+    }
+  ],
+  "inventory": [],
+  "gear": [
+    {
+      "name": "Cooking knife",
+      "bonus": "",
+      "desc": "finesse\n1d8 + 1"
+    }
+  ],
+  "selectedDomain": [
+    "i am your shield",
+    "forceful push"
+  ],
+  "theme": "gold",
+  "lastExport": "1786391328975"
+}
