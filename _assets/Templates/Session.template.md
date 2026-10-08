@@ -4,7 +4,7 @@ date:
 Session Number: "0"
 ---
 # Players
-- [ ] [[Floraun]]
+- [ ] [[Flora]]
 - [ ] [[Sir Igneus the grand knight]]
 - [ ] [[D'up D'up]]
 - [ ] [[Stowićh]]
