@@ -1,1 +1,2 @@
-the fancy new place 
+the fancy new place in [[Toastranch]]
+canonically 
