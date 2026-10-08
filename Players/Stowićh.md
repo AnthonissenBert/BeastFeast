@@ -5,4 +5,6 @@ frostborne iconography
 
 Experiences:
 - Autistic Screeching
-- 
+
+inventory
+- 2 slices of apricot pie

@@ -147,7 +147,8 @@
               "title": "2026-09-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -315,12 +316,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26d17578a9b2942e",
+  "active": "0273fe3379104892",
   "lastOpenFiles": [
+    "Sessions/2026-10-08.md",
     "Recepies/grandma's cranberry cherry pie.md",
     "Players/Stowićh.md",
     "Pasted image 20261008212525.png",
-    "Sessions/2026-10-08.md",
     "Players/D'up D'up.md",
     "the bakery.md",
     "Sessions/2026-09-05.md",
