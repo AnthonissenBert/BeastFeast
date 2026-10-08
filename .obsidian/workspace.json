@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ghost scorpion.md",
+                "file": "Monsters/Ghost scorpion.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recepies/Quinn's cake - Larry's lavender cake.md",
+                "file": "the Lure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quinn's cake - Larry's lavender cake"
+              "title": "the Lure"
             }
           },
           {
@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "berries.md",
+                "file": "Locations/berries.md",
                 "mode": "source",
                 "source": false
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ghost scorpions.md",
+                "file": "Monsters/ghost scorpions.md",
                 "mode": "source",
                 "source": false
               },
@@ -374,13 +374,17 @@
   },
   "active": "e96cd081b7cd0615",
   "lastOpenFiles": [
-    "Recepies/premade/Grandma's apricot pie.md",
+    "Stewpot Festival.md",
+    "Untitled",
+    "Monsters/ghost scorpions.md",
+    "Locations/berries.md",
+    "Monsters",
     "Recepies/Quinn's cake - Larry's lavender cake.md",
+    "Recepies/premade/Grandma's apricot pie.md",
     "Recepies/premade/grandma's cranberry cherry pie.md",
     "Sessions/2026-10-08.md",
     "Recepies/premade",
-    "Ghost scorpion.md",
-    "ghost scorpions.md",
+    "Monsters/Ghost scorpion.md",
     "_assets/images/Pasted image 20261008212525.png",
     "_assets/images",
     "_assets/images/Pasted image 20261008214920.png",
@@ -390,28 +394,23 @@
     "Players/Stowićh.md",
     "Players/D'up D'up.md",
     "Sessions/2026-09-05.md",
-    "berries.md",
     "NPC's/Bertha.md",
-    "Shallows.md",
+    "Locations/Shallows.md",
     "Recepies/foraged item list.md",
     "Recepies/suspicious stew.md",
     "Players/Flora.md",
     "_assets/character_2026-09-05 1.json",
     "_assets/character_2026-09-05.json",
     "Recepies/meat stew.md",
-    "Stewpot Festival.md",
-    "Toastranch.md",
-    "Rosemary's pass.md",
+    "Locations/Toastranch.md",
+    "Locations/Rosemary's pass.md",
     "NPC's/Larry.md",
-    "Lavenders Court.md",
+    "Monsters/Lavenders Court.md",
     "Locations/Elmore.md",
     "NPC's/Manshego.md",
-    "NPC's/Carat.md",
     "Recepies",
     "_assets/Templates",
     "_assets",
-    "F",
-    "Locations",
-    "NPC's"
+    "F"
   ]
 }
