@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-10-08.md",
+                "file": "Recepies/Grandma's apricot pie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-08"
+              "title": "Grandma's apricot pie"
+            }
+          },
+          {
+            "id": "75beb428c3331951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recepies/Grandma's apricot pie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grandma's apricot pie"
+            }
+          },
+          {
+            "id": "e96cd081b7cd0615",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recepies/Grandma's apricot pie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grandma's apricot pie"
             }
           },
           {
@@ -176,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -344,16 +372,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ccdc18c6a415041",
+  "active": "26d17578a9b2942e",
   "lastOpenFiles": [
+    "Recepies/grandma's cranberry cherry pie.md",
     "Recepies/Grandma's apricot pie.md",
     "Sessions/2026-10-08.md",
+    "Recepies/premade",
     "Ghost scorpion.md",
     "ghost scorpions.md",
     "_assets/images/Pasted image 20261008212525.png",
     "_assets/images",
     "_assets/images/Pasted image 20261008214920.png",
-    "Recepies/grandma's cranberry cherry pie.md",
     "_assets/images/Pasted image 20261008214931.png",
     "Locations/chicory grove.md",
     "the bakery.md",
@@ -382,7 +411,6 @@
     "_assets",
     "F",
     "Locations",
-    "NPC's",
-    "Sessions"
+    "NPC's"
   ]
 }
