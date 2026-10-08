@@ -77,8 +77,7 @@
               "title": "foraged item list"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,11 +245,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7657c8e32bc5f988",
+  "active": "33194584328645cb",
   "lastOpenFiles": [
-    "Recepies/suspicious stew.md",
-    "Recepies/foraged item list.md",
     "Sessions/2026-09-05.md",
+    "Recepies/foraged item list.md",
+    "Recepies/suspicious stew.md",
+    "Players/Flora.md",
     "Sessions/2026-10-08.md",
     "_assets/character_2026-09-05 1.json",
     "_assets/character_2026-09-05.json",
@@ -263,7 +263,6 @@
     "Larry.md",
     "Lavenders Court.md",
     "Locations/Elmore.md",
-    "Players/Flora.md",
     "NPC's/Manshego.md",
     "NPC's/Carat.md",
     "piping plovers.md",
