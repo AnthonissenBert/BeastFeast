@@ -105,7 +105,8 @@
               "title": "2026-09-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,14 +274,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33194584328645cb",
+  "active": "27631e51c3db66f6",
   "lastOpenFiles": [
-    "the bakery.md",
     "Sessions/2026-10-08.md",
+    "Sessions/2026-09-05.md",
+    "the bakery.md",
     "berries.md",
     "Bertha.md",
     "ghost scorpions.md",
-    "Sessions/2026-09-05.md",
     "Players/Stowićh.md",
     "Shallows.md",
     "Recepies/foraged item list.md",
