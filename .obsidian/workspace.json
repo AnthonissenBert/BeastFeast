@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,10 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bc5a077daa67474f",
+  "active": "0057aeb92950da0b",
   "lastOpenFiles": [
-    "Sessions/2026-09-05.md",
     "Recepies/suspicious stew.md",
+    "Sessions/2026-09-05.md",
     "Recepies/foraged item list.md",
     "Sessions/2026-10-08.md",
     "_assets/character_2026-09-05 1.json",
