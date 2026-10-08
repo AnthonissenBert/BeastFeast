@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-10-08.md",
+                "file": "Recepies/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-08"
+              "title": "Untitled"
             }
           },
           {
@@ -331,8 +331,9 @@
   },
   "active": "33194584328645cb",
   "lastOpenFiles": [
-    "chicory grove.md",
     "Sessions/2026-10-08.md",
+    "Recepies/Untitled.md",
+    "chicory grove.md",
     "the bakery.md",
     "Players/Stowićh.md",
     "Recepies/grandma's cranberry cherry pie.md",
@@ -359,7 +360,6 @@
     "NPC's/Manshego.md",
     "NPC's/Carat.md",
     "piping plovers.md",
-    "NPC's/Doug Dougle.md",
     "Recepies",
     "_assets/Templates",
     "_assets",
