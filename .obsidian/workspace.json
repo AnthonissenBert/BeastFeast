@@ -49,8 +49,7 @@
               "title": "2026-09-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,10 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb0e7620bafd3d6d",
+  "active": "33194584328645cb",
   "lastOpenFiles": [
-    "Sessions/2026-10-08.md",
     "Sessions/2026-09-05.md",
+    "Players/Stowićh.md",
+    "Sessions/2026-10-08.md",
     "Shallows.md",
     "Recepies/foraged item list.md",
     "Recepies/suspicious stew.md",
@@ -230,7 +230,6 @@
     "_assets/character_2026-09-05.json",
     "Recepies/meat stew.md",
     "Stewpot Festival.md",
-    "Players/Stowićh.md",
     "Toastranch.md",
     "Ghost scorpion.md",
     "Rosemary's pass.md",
