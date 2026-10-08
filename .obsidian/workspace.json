@@ -11,14 +11,12 @@
             "id": "33194584328645cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Recepies/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "_assets/images/Pasted image 20261008212525.png"
               },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261008212525"
             }
           },
           {
@@ -329,15 +327,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33194584328645cb",
+  "active": "26d17578a9b2942e",
   "lastOpenFiles": [
+    "_assets/images",
+    "_assets/images/Pasted image 20261008214920.png",
+    "Recepies/grandma's cranberry cherry pie.md",
+    "_assets/images/Pasted image 20261008214931.png",
+    "Recepies/Grandma's apricot pie.md",
     "Sessions/2026-10-08.md",
-    "Recepies/Untitled.md",
     "chicory grove.md",
     "the bakery.md",
     "Players/Stowićh.md",
-    "Recepies/grandma's cranberry cherry pie.md",
-    "Pasted image 20261008212525.png",
+    "_assets/images/Pasted image 20261008212525.png",
     "Players/D'up D'up.md",
     "Sessions/2026-09-05.md",
     "berries.md",
@@ -359,7 +360,6 @@
     "Locations/Elmore.md",
     "NPC's/Manshego.md",
     "NPC's/Carat.md",
-    "piping plovers.md",
     "Recepies",
     "_assets/Templates",
     "_assets",
