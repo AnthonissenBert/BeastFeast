@@ -63,8 +63,7 @@
               "title": "2026-09-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2aeabc1251aa04a3",
+  "active": "33194584328645cb",
   "lastOpenFiles": [
-    "Sessions/2026-10-08.md",
     "ghost scorpions.md",
+    "Sessions/2026-10-08.md",
     "Sessions/2026-09-05.md",
     "Players/Stowićh.md",
     "Shallows.md",
