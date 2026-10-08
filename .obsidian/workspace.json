@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "bb0e7620bafd3d6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Players/Stowićh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stowićh"
+            }
+          },
+          {
             "id": "a73b9a2e18931237",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "2026-09-05"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33194584328645cb",
+  "active": "bb0e7620bafd3d6d",
   "lastOpenFiles": [
-    "Sessions/2026-09-05.md",
     "Sessions/2026-10-08.md",
+    "Sessions/2026-09-05.md",
     "Shallows.md",
     "Recepies/foraged item list.md",
     "Recepies/suspicious stew.md",
