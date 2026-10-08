@@ -11,12 +11,14 @@
             "id": "33194584328645cb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_assets/images/Pasted image 20261008212525.png"
+                "file": "Ghost scorpion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261008212525"
+              "icon": "lucide-file",
+              "title": "Ghost scorpion"
             }
           },
           {
@@ -327,8 +329,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26d17578a9b2942e",
+  "active": "33194584328645cb",
   "lastOpenFiles": [
+    "ghost scorpions.md",
+    "Ghost scorpion.md",
+    "_assets/images/Pasted image 20261008212525.png",
     "_assets/images",
     "_assets/images/Pasted image 20261008214920.png",
     "Recepies/grandma's cranberry cherry pie.md",
@@ -338,12 +343,10 @@
     "Locations/chicory grove.md",
     "the bakery.md",
     "Players/Stowićh.md",
-    "_assets/images/Pasted image 20261008212525.png",
     "Players/D'up D'up.md",
     "Sessions/2026-09-05.md",
     "berries.md",
     "NPC's/Bertha.md",
-    "ghost scorpions.md",
     "Shallows.md",
     "Recepies/foraged item list.md",
     "Recepies/suspicious stew.md",
@@ -353,7 +356,6 @@
     "Recepies/meat stew.md",
     "Stewpot Festival.md",
     "Toastranch.md",
-    "Ghost scorpion.md",
     "Rosemary's pass.md",
     "NPC's/Larry.md",
     "Lavenders Court.md",
@@ -366,7 +368,6 @@
     "F",
     "Locations",
     "NPC's",
-    "Sessions",
-    "Players"
+    "Sessions"
   ]
 }
