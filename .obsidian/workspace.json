@@ -77,8 +77,7 @@
               "title": "2026-09-05"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dcd7ca6445f20878",
+  "active": "33194584328645cb",
   "lastOpenFiles": [
     "Bertha.md",
     "Sessions/2026-10-08.md",
