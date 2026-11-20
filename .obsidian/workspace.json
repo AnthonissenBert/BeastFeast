@@ -23,15 +23,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/2026-10-08.md",
+                "file": "Sessions/2026-11-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-10-08"
+              "title": "2026-11-20"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ccdc18c6a415041",
+  "active": "0a2f8661f065d70e",
   "lastOpenFiles": [
-    "Sessions/2026-11-20.md",
     "Sessions/2026-10-08.md",
+    "Sessions/2026-11-20.md",
     "Recepies/premade/Grandma's apricot pie.md",
     "Sessions/2026-09-05.md",
     "Players/Stowićh.md",
