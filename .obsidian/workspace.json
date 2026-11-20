@@ -35,8 +35,7 @@
               "title": "2026-10-08"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,11 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a2f8661f065d70e",
+  "active": "9ccdc18c6a415041",
   "lastOpenFiles": [
+    "Sessions/2026-10-08.md",
     "Sessions/2026-11-20.md",
     "Recepies/premade/Grandma's apricot pie.md",
-    "Sessions/2026-10-08.md",
     "Sessions/2026-09-05.md",
     "Players/Stowićh.md",
     "Monsters/ghost scorpions.md",
